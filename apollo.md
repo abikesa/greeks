@@ -1,5 +1,11 @@
 # Classical
 
+Infinite Space-Time decimates the notion of "hereafter", rendering dreams and metaphysics mere "legacy systems"
+
+# Quantum
+
+## I
+
 The intersection of DNA studies with quantum mechanics introduces a fascinating and speculative realm of scientific inquiry that pushes the boundaries of our understanding of life and the fundamental principles of the universe. While classical biology and chemistry have provided extensive insights into the structure and function of DNA, quantum mechanics offers a theoretical framework to explore phenomena at the smallest scales of energy and matter, potentially illuminating the quantum aspects of DNA's behavior and function.
 
 ### Quantum Effects in Biological Systems
@@ -30,7 +36,7 @@ Moreover, experimental evidence directly linking quantum mechanics to DNA functi
 
 The exploration of DNA through the lens of quantum mechanics opens up speculative but potentially groundbreaking avenues for understanding the molecular machinery of life. While the field is in its infancy and faces significant challenges, it embodies the interdisciplinary nature of modern science, where physics, biology, and information technology converge to explore the unknown. As research progresses, we may find that the quantum world plays a more integral role in biology than previously thought, offering new insights into the complexity of life itself.
 
-# Quantum
+# II
 
 The origin of replication errors in DNA, from a quantum mechanics perspective, suggests an intriguing and complex interplay between the fundamental laws of physics and the biological mechanisms that ensure the fidelity of genetic information. While classical biology has provided a detailed understanding of the processes and proteins involved in DNA replication, quantum mechanics might offer insights into the subtleties of molecular interactions and the potential for errors at the quantum level.
 
