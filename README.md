@@ -35,9 +35,9 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
 ### 6. 'Thena (Athena): Life/Wherefore - Eternal Recurrence of Same
 
 Athena, goddess of wisdom, warfare, and strategy, embodies the principle of eternal recurrence. Her wisdom transcends the cyclical nature of life and history, suggesting that the core challenges and triumphs of human existence repeat across time. Athena's domain prompts reflection on the purpose of life and the lessons learned through the repeated patterns of history. She understands mans propensities, anticipates them, and decrees law and order to transcend the following recurrent cycle:
-- Mismatch: Skills vs. Challenges
-- Victory: Flow & Growth
-- Ragnarok: Worthy Adversary -> Arms Race
+- Mismatch: Skills vs. Challenges `Hideth` from Engagement
+- Victory: Flow & Growth `Whineth` of Antagonists
+- Ragnarok: Worthy Adversary -> Arms Race `Tameth` Übermensch
 
 #
 
