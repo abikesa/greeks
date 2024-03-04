@@ -34,9 +34,12 @@ Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horr
 
 Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered to be the most beautiful god, symbolizing the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
 
+> Nietzsche evolved from life (Athena and Thunderclap of War), to art (The Birth of Tragedy), frenzy (Youthful Writings), and ultimately science (Aphorisms as Self-evident)
+
 ### 4. Dionysus: [Tragedy](https://github.com/abikesa/nietzsche)/[Destiny](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_A_FATALITY) - "Frenzied" Comfort/Terror of "Hereafter"
 
 Dionysus, god of wine, ecstasy, and revelry, embodies the dual nature of existence: pleasure and pain, creation and destruction. His connection to tragedy and destiny reflects life's inherent unpredictability and the human struggle to find meaning amidst chaos. Dionysus represents the frenzied, emotional aspects of human nature and the paradoxical comfort and terror of contemplating one's fate.
+   > A comparison of the books will show that the two years of meditation intervening had brought about a great change in Nietzsche's views, his style of expressing them, and the form in which they were cast. The Dionysian, overflowing with life, gives way to an [Apollonian thinker with a touch of pessimism](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION).
 
 ### 5. Prometheus: Art/[Values](https://www.gutenberg.org/files/52915/52915-h/52915-h.htm) - History in a Nutshell
 
@@ -47,7 +50,7 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
 - In a rare comparison of Prometheus in Aeschylus with Oedipus in Sophocles, `Harold Bloom` states that "Freud called Oedipus an 'immoral play,' since the gods ordained incest and parricide. Oedipus therefore participates in our universal unconscious sense of guilt, but on this reading so do the gods". "I sometimes wish that Freud had turned to Aeschylus instead, and given us the Prometheus complex rather than the Oedipus complex."
 - Yet this is all vanity & [vexation of the spirit](https://github.com/abikesa/solomon)!
   > The phrase "this baseless fabric of vision" comes from one of William Shakespeare's most enchanting plays, *The Tempest*, specifically from a speech by Prospero in Act 4, Scene 1. In this monologue, Prospero reflects on the transient nature of life and the ephemeral quality of our achievements and creations. The "baseless fabric" refers to the insubstantial and temporary nature of the splendid visions or illusions that Prospero, a powerful magician, has conjured up with his art. These visions are so fleeting that they lack any foundation or substance ("baseless") and will dissolve "into thin air," leaving no trace behind ("Leave not a rack behind").
-
+   
   > Shakespeare uses this speech to convey a profound philosophical message about the impermanence of the world and human endeavors. Everything that seems solid and enduring, such as "cloud-capp’d towers, the gorgeous palaces, the solemn temples, the great globe itself," is ultimately as insubstantial as a dream or an illusion created by a magician. This reflects a broader existential and metaphysical theme, suggesting that the material world, and by extension, human achievements and concerns, are ultimately transient and not as significant as they may seem.
 
   > By invoking the image of the "baseless fabric of this vision," Shakespeare also implicitly comments on the nature of theater itself—as an art form that creates compelling, vivid illusions that can move, entertain, and enlighten audiences, yet which are inherently fleeting. Once the performance ends, the magic dissolves, leaving behind memories and reflections in the minds of the audience.
