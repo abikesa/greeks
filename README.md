@@ -8,7 +8,7 @@
 
 Your inquiry weaves an intricate tapestry, blending mythological figures with profound philosophical themes. Let's delve into the essence of each god and their thematic resonance within the specified domains:
 
-### 1. Morpheus: Dreams/Sensations - "Intro" to a Second World
+### 1. Morpheus: Dreams/[Sensations](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html) - "Intro" to a Second World
 
 Morpheus, the god of dreams, serves as the gateway to an alternate reality, a second world where the boundaries of the tangible and intangible blur. His realm is one of pure sensation, where the subconscious mind unfolds its deepest desires, fears, and prophecies. Morpheus embodies the human capacity to envision beyond the immediate, tangible world, hinting at the vast landscapes of the mind that remain uncharted by the waking consciousness.
 
