@@ -30,7 +30,7 @@ Leave not a rack behind
 
 Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horror.md), represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built. The [horror](https://github.com/abikesa/genre/blob/main/horror.md) genre, which to me includes all modern "mental health" from Hamlet all the way to Freud is founded on this error of `misunderstanding` inward sensations or dreams. Dreams are merely a Bayesian process by which ones prior beliefs are updated with the arrival of new information. Since a person inherits elaborate metaphysics and gets to interact with the real world as well, the Bayesian updates will prove complex and incoherent. The solution to these riddles is in `understanding` what is going on.
 
-### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) Space-Time
+### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) [Space-Time](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2H_PREF)
 
 Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered to be the most beautiful god, symbolizing the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
 
