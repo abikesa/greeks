@@ -41,6 +41,7 @@ Athena, goddess of wisdom, warfare, and strategy, embodies the principle of eter
 - [Victory](https://github.com/abikesa/nonplusultra/blob/main/whineth.md): Flow & Growth `Whineth` of Antagonists
    - He doth protest too much against Schopenhaur & Wagner, me thinks: Nietzsche's Growth in Ecce Homo: "Human, all-too-Human, is the monument of a crisis. It is entitled: 'A book for free spirits,' and almost every line in it represents a `victory`—in its pages I freed myself from everything foreign to my real nature. Idealism is foreign to me: the title says, 'Where you see ideal things, I see things which are only—human alas! all-too-human!' I know man better—the term 'free spirit' must here be understood in no other sense than this: a freed man, who has once more taken possession of himself." 
 - [Ragnarok](https://github.com/abikesa/nonplusultra/blob/main/tameth.md): Worthy Adversary -> Arms Race `Tameth` Übermensch
+   - Athena vs. Poseidon 
 
 # Code
 
