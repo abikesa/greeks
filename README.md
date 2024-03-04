@@ -16,7 +16,7 @@ Morpheus, the god of dreams, serves as the gateway to an alternate reality, a se
 
 ### 2. [Hades](https://github.com/abikesa/genre): Metaphysics/Ideas - Hades as Next World
 
-Hades, ruler of the underworld, represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built.
+Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horror.md), represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built.
 
 ### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) Space-Time
 
