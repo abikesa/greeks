@@ -38,7 +38,7 @@ Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered 
 
 ### 4. Dionysus: [Tragedy](https://github.com/abikesa/nietzsche)/[Destiny](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_A_FATALITY) - "Frenzied" Comfort/Terror of "Hereafter"
 
-Dionysus, god of wine, ecstasy, and revelry, embodies the dual nature of existence: pleasure and pain, creation and destruction. His connection to tragedy and destiny reflects life's inherent unpredictability and the human struggle to find meaning amidst chaos. Dionysus represents the frenzied, emotional aspects of human nature and the paradoxical comfort and terror of contemplating one's fate.
+Dionysus, god of wine, ecstasy, and revelry, embodies the [dual nature](https://johnmacfarlane.net) of existence: pleasure and pain, creation and destruction. His connection to [tragedy and destiny](https://en.wikipedia.org/wiki/John_MacFarlane_(philosopher)) reflects life's inherent unpredictability and the human struggle to find meaning amidst chaos. Dionysus represents the frenzied, emotional aspects of human nature and the paradoxical comfort and terror of contemplating one's fate.
    > A comparison of the books will show that the two years of meditation intervening had brought about a great change in Nietzsche's views, his style of expressing them, and the form in which they were cast. The Dionysian, overflowing with life, gives way to an [Apollonian thinker with a touch of pessimism](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION).
 
 ### 5. Prometheus: Art/[Values](https://www.gutenberg.org/files/52915/52915-h/52915-h.htm) - History in a Nutshell
