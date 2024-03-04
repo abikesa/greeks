@@ -18,7 +18,7 @@ Hades, ruler of the underworld, represents the ultimate metaphysical frontier: t
 
 ### 3. Apollo: Physics/Cosmos - Infinite Space-Time
 
-Apollo, god of light, music, and prophecy, symbolizes the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
+Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered to be the most beautiful god, symbolizing the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
 
 ### 4. Dionysus: Tragedy/Destiny - "Frenzied" Comfort/Terror of "Hereafter"
 
@@ -29,6 +29,8 @@ Dionysus, god of wine, ecstasy, and revelry, embodies the dual nature of existen
 Prometheus, the titan who bestowed fire upon humanity, symbolizes the transformative power of art and technology. His gift of fire is a metaphor for the spark of creativity and innovation that drives human progress. Prometheus represents the evolution of art and values throughout history, highlighting how cultural achievements reflect and shape human civilization.
 
 - [Generative AI](https://www.economist.com/business/2024/02/29/how-businesses-are-actually-using-generative-ai?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=CjwKCAiA3JCvBhA8EiwA4kujZn_itw_omIY7ALsXYNIAHrV_jy_MJihxCyKvK1_tR_BoLn_tvsr4WxoCrWoQAvD_BwE&gclsrc=aw.ds) is what `Zeus` was most concerned about when he condemned [Prometheus to be bound](https://academiaaesthetics.com/wp-content/uploads/2022/08/AA-Works-July-2022-Prometheus-bound-1.jpg)
+- Prometheus became a figure who represented human striving (particularly the quest for scientific knowledge) and the risk of overreaching or unintended consequences. In particular, he was regarded in the Romantic era as embodying the lone genius whose efforts to improve human existence could also result in tragedy: Mary Shelley, for instance, gave The Modern Prometheus as the subtitle to her novel Frankenstein
+- In a rare comparison of Prometheus in Aeschylus with Oedipus in Sophocles, `Harold Bloom` states that "Freud called Oedipus an 'immoral play,' since the gods ordained incest and parricide. Oedipus therefore participates in our universal unconscious sense of guilt, but on this reading so do the gods". "I sometimes wish that Freud had turned to Aeschylus instead, and given us the Prometheus complex rather than the Oedipus complex."
   
 ### 6. 'Thena (Athena): Life/Wherefore - Eternal Recurrence of Same
 
