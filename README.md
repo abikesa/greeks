@@ -30,6 +30,7 @@ Leave not a rack behind
 
 Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horror.md), represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built. The [horror](https://github.com/abikesa/genre/blob/main/horror.md) genre, which to me includes all modern "mental health" from Hamlet all the way to Freud is founded on this error of `misunderstanding` inward sensations or dreams. Dreams are merely a Bayesian process by which ones prior beliefs are updated with the arrival of new information. Since a person inherits elaborate metaphysics and gets to interact with the real world as well, the Bayesian updates will prove complex and incoherent. The solution to these riddles is in `understanding` what is going on.
 - Cannot all valuations be reversed? And is good perhaps evil? And [God only an invention and artifice of the devil](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION)? Is everything, perhaps, radically false?
+- Talking of reversal of valuations: what exactly would the value of education be [20 years from now](https://www.youtube.com/watch?v=2w37ty9gGU8)?
 
 ### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) [Space-Time](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2H_PREF)
 
