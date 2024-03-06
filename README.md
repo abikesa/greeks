@@ -32,7 +32,7 @@ Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horr
 - Cannot all valuations be reversed? And is good perhaps evil? And [God only an invention and artifice of the devil](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION)? Is everything, perhaps, radically false?
 - Talking of reversal of valuations: what exactly would the value of education be [20 years from now](https://www.youtube.com/watch?v=2w37ty9gGU8)?
 - `Yuval Noah Harari` has a new book for pre-teens called [Unstopabble Us](https://www.youtube.com/watch?v=2w37ty9gGU8). Gotta read this since it talks about the sort of philosophical ideas I my intelect in March 2024 is very much aligned with
-- In a nutshell, lets fix our metaphysics-- the stories we tell ourselves -- since its these `untruths` the determine most human conflict. Its not any objective truth (e.g., shortage of land) 
+- In a nutshell, lets fix our metaphysics-- the stories we tell ourselves -- since its these `untruths` that determine most human conflict. Its not any objective truth (e.g., shortage of land) 
 
 ### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) [Space-Time](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2H_PREF)
 
@@ -60,7 +60,7 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
 - Notes from Human, All-Too-Human Preface:
    - Dream
    - Human, all-too-human error
-   - Free spirit
+   - Free spirit (veritas vos liberabit)
    - Solitude
    - Convalescence
       - He almost feels as if his eyes were now first opened to what is near. He marvels and is still; where has he been? The near and nearest things, how changed they appear to him! What a bloom and magic they have acquired meanwhile! He looks back gratefully,—grateful to his wandering, his austerity and self-estrangement, his far-sightedness and his bird-like flights in cold heights. What a good thing that he did not always stay "at home," "by himself," like a sensitive, stupid tenderling. He has been beside himself, there is no doubt. He now sees himself for the first time,—and what surprises he feels thereby! What thrills unexperienced hitherto! What joy even in the weariness, in the old illness, in the relapses of the `convalescent`! 
