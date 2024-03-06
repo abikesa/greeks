@@ -60,7 +60,7 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
 - Notes from Human, All-Too-Human Preface:
    - Dream
    - Human, all-too-human error
-   - Free spirit (veritas vos liberabit)
+   - Free spirit ([veritas vos liberabit](https://en.wikipedia.org/wiki/The_truth_will_set_you_free))
    - Solitude
    - Convalescence
       - He almost feels as if his eyes were now first opened to what is near. He marvels and is still; where has he been? The near and nearest things, how changed they appear to him! What a bloom and magic they have acquired meanwhile! He looks back gratefully,—grateful to his wandering, his austerity and self-estrangement, his far-sightedness and his bird-like flights in cold heights. What a good thing that he did not always stay "at home," "by himself," like a sensitive, stupid tenderling. He has been beside himself, there is no doubt. He now sees himself for the first time,—and what surprises he feels thereby! What thrills unexperienced hitherto! What joy even in the weariness, in the old illness, in the relapses of the `convalescent`! 
