@@ -64,7 +64,9 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
    - Solitude
    - Convalescence
       - He almost feels as if his eyes were now first opened to what is near. He marvels and is still; where has he been? The near and nearest things, how changed they appear to him! What a bloom and magic they have acquired meanwhile! He looks back gratefully,—grateful to his wandering, his austerity and self-estrangement, his far-sightedness and his bird-like flights in cold heights. What a good thing that he did not always stay "at home," "by himself," like a sensitive, stupid tenderling. He has been beside himself, there is no doubt. He now sees himself for the first time,—and what surprises he feels thereby! What thrills unexperienced hitherto! What joy even in the weariness, in the old illness, in the relapses of the `convalescent`! 
-   - Life!  
+   - Life!
+- Judge Paul R. Hays paraphrased
+   - The Swedish guy was *trying* to make art. And it doesn't matter if you think he was a total failure. And it doesn't matter if you think it's the biggest piece of shit you've ever seen in your life. What *matters* is that he tried [to make art](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood_(novel)) 
 - Yet this is all vanity & [vexation of the spirit](https://github.com/abikesa/solomon)!
   > The phrase "this baseless fabric of vision" comes from one of William Shakespeare's most enchanting plays, *The Tempest*, specifically from a speech by Prospero in Act 4, Scene 1. In this monologue, Prospero reflects on the transient nature of life and the ephemeral quality of our achievements and creations. The "baseless fabric" refers to the insubstantial and temporary nature of the splendid visions or illusions that Prospero, a powerful magician, has conjured up with his art. These visions are so fleeting that they lack any foundation or substance ("baseless") and will dissolve "into thin air," leaving no trace behind ("Leave not a rack behind").
    
