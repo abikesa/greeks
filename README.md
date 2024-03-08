@@ -26,6 +26,10 @@ Yea, all which it inherit, shall dissolve,
 And, like this insubstantial pageant faded,   
 Leave not a rack behind   
 
+   - [John Nash](https://www.economist.com/obituary/2015/05/30/lost-and-found) got a bigger "Morpheus dose" than most folks will and so ended up with a richer metaphysics (for better `&` worse) and it all came to his mind with the same sparkling clarity as his insights that make him famous to this day:
+      - Numerology
+      - Conspiracy
+      - Hypothesis  
 ### 2. [Hades](https://github.com/abikesa/genre): Metaphysics/Ideas - Hades as Next World
 
 Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horror.md), represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built. The [horror](https://github.com/abikesa/genre/blob/main/horror.md) genre, which to me includes all modern "mental health" from Hamlet all the way to Freud is founded on this error of `misunderstanding` inward sensations or dreams. Dreams are merely a Bayesian process by which ones prior beliefs are updated with the arrival of new information. Since a person inherits elaborate metaphysics and gets to interact with the real world as well, the Bayesian updates will prove complex and incoherent. The solution to these riddles is in `understanding` what is going on.
