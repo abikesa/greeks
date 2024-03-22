@@ -36,7 +36,7 @@ Leave not a rack behind
       - Thats afterlife
       - Happier place
       - And clearly something earlier man experienced
-  - Dreaming is a good thing, Aspiration is a good thing. I think those are the things that life is really made of - Martha Steward 
+  - Dreaming is a good thing, Aspiration is a good thing. I think those are the things that life is really made of - [Martha Stewart](https://play.max.com/video/watch/1685d1bd-ab16-498f-8fd2-a256d815bac8/bae3e678-0141-494d-bb01-42fb99816aa4)
 ### 2. [Hades](https://github.com/abikesa/genre): Metaphysics/Ideas - Hades as Next World
 
 Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horror.md), represents the ultimate metaphysical frontier: the afterlife. His domain challenges our understanding of existence beyond death, prompting contemplation of what lies beyond the visible world. Hades' realm is a metaphor for the unknown, the foundation upon which metaphysical ideas of life, death, and what comes after are built. The [horror](https://github.com/abikesa/genre/blob/main/horror.md) genre, which to me includes all modern "mental health" from Hamlet all the way to Freud is founded on this error of `misunderstanding` inward sensations or dreams. Dreams are merely a Bayesian process by which ones prior beliefs are updated with the arrival of new information. Since a person inherits elaborate metaphysics and gets to interact with the real world as well, the Bayesian updates will prove complex and incoherent. The solution to these riddles is in `understanding` what is going on.
