@@ -2,9 +2,9 @@
                   
                    1. Morpheus
                               \
-                  2. Hades -> 4. Dionysus -> 5. Prometheus -> 6. 'Thena
+                  2. Hades -> 4. Dionysus -> 5. Apollo -> 6. 'Thena
                               /
-                              3. Apollo
+                              3. Prometheus
 
 # [Encode](https://smart-stats.github.io/ds4bio_book/qbook/_book/specialized_autoencoder.html)
 
@@ -45,21 +45,7 @@ Hades, ruler of the [underworld](https://github.com/abikesa/genre/blob/main/horr
 - [Yuval Noah Harari](https://github.com/abikesa/philosophy) has a new book for pre-teens called [Unstopabble Us](https://www.youtube.com/watch?v=2w37ty9gGU8). Gotta read this since it talks about the sort of philosophical ideas I my intelect in March 2024 is very much aligned with
 - In a nutshell, lets fix our metaphysics-- the stories we tell ourselves -- since its these `untruths` that determine most human conflict. Its not any objective truth (e.g., shortage of land) 
 
-### 3. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) [Space-Time](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2H_PREF)
-
-Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered to be the most beautiful god, symbolizing the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
-
-> Nietzsche evolved from life (Athena and Thunderclap of War), to art (The Birth of Tragedy), frenzy (Youthful Writings), and ultimately science (Aphorisms as Self-evident)
-
-### 4. Dionysus: [Tragedy](https://github.com/abikesa/nietzsche)/[Destiny](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_A_FATALITY) - "Frenzied" Comfort/Terror of "Hereafter"
-
-Dionysus, god of wine, ecstasy, and revelry, embodies the [dual nature](https://johnmacfarlane.net) of existence: pleasure and pain, creation and destruction. His connection to [tragedy and destiny](https://en.wikipedia.org/wiki/John_MacFarlane_(philosopher)) reflects life's inherent unpredictability and the human struggle to find meaning amidst chaos. Dionysus represents the frenzied, emotional aspects of human nature and the paradoxical comfort and terror of contemplating one's fate.
-- His [first outbreak of power](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION) and will to self-decision, self-valuation, this will to free will
-- And how much disease is manifested in the wild attempts and eccentricities by which the liberated and emancipated one now seeks to demonstrate his mastery over things!
-   > A comparison of the books will show that the two years of meditation intervening had brought about a great change in Nietzsche's views, his style of expressing them, and the form in which they were cast. The Dionysian, overflowing with life, gives way to an [Apollonian thinker with a touch of pessimism](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION).
-- This German book, which has been able to find readers in a wide circle of countries and nations—it has been about ten years going its rounds—and `must understand some sort of music` and piping art, by means of which even coy `foreign ears are seduced into listening`,—it is precisely in Germany that this book has been most negligently read, and worst listened to; `what is the reason?" It demands too much`, "I have been told," it appeals to men free from the pressure of coarse duties, it wants refined and fastidious senses, it needs superfluity—superfluity of time, of clearness of sky and heart, of otium in the boldest sense of the term:—purely good things, which we Germans of to-day do not possess and therefore cannot give." After such a polite answer my philosophy advises me to be silent and not to question further; besides, in certain cases, as the proverb points out, `one only remains a philosopher by being—silent`.
-  
-### 5. Prometheus: Art/[Values](https://www.gutenberg.org/files/52915/52915-h/52915-h.htm) - History in a Nutshell
+### 3. Prometheus: Art/[Values](https://www.gutenberg.org/files/52915/52915-h/52915-h.htm) - History in a Nutshell
 
 Prometheus, the titan who bestowed fire upon humanity, symbolizes the transformative power of art and technology. His gift of fire is a metaphor for the spark of creativity and innovation that drives human progress. Prometheus represents the evolution of art and values throughout history, highlighting how cultural achievements reflect and shape human civilization.
 
@@ -87,6 +73,21 @@ Prometheus, the titan who bestowed fire upon humanity, symbolizes the transforma
 
   > Prospero's speech is a reminder to cherish the moment, to reflect on the nature of reality and illusion, and to consider the lasting value of wisdom and understanding over material achievements. It's a call to a philosophical contemplation on the nature of existence, encouraging us to look beyond the surface and to find meaning in the transient beauty of the world and the human experience. 
   
+
+### 4. [Dionysus](https://abikesa.github.io/dionysus/intro.html): [Tragedy](https://github.com/abikesa/nietzsche)/[Destiny](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_A_FATALITY) - "Frenzied" Comfort/Terror of "Hereafter"
+
+Dionysus, god of wine, ecstasy, and revelry, embodies the [dual nature](https://johnmacfarlane.net) of existence: pleasure and pain, creation and destruction. His connection to [tragedy and destiny](https://en.wikipedia.org/wiki/John_MacFarlane_(philosopher)) reflects life's inherent unpredictability and the human struggle to find meaning amidst chaos. Dionysus represents the frenzied, emotional aspects of human nature and the paradoxical comfort and terror of contemplating one's fate.
+- His [first outbreak of power](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION) and will to self-decision, self-valuation, this will to free will
+- And how much disease is manifested in the wild attempts and eccentricities by which the liberated and emancipated one now seeks to demonstrate his mastery over things!
+   > A comparison of the books will show that the two years of meditation intervening had brought about a great change in Nietzsche's views, his style of expressing them, and the form in which they were cast. The Dionysian, overflowing with life, gives way to an [Apollonian thinker with a touch of pessimism](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION).
+- This German book, which has been able to find readers in a wide circle of countries and nations—it has been about ten years going its rounds—and `must understand some sort of music` and piping art, by means of which even coy `foreign ears are seduced into listening`,—it is precisely in Germany that this book has been most negligently read, and worst listened to; `what is the reason?" It demands too much`, "I have been told," it appeals to men free from the pressure of coarse duties, it wants refined and fastidious senses, it needs superfluity—superfluity of time, of clearness of sky and heart, of otium in the boldest sense of the term:—purely good things, which we Germans of to-day do not possess and therefore cannot give." After such a polite answer my philosophy advises me to be silent and not to question further; besides, in certain cases, as the proverb points out, `one only remains a philosopher by being—silent`.
+
+### 5. Apollo: Physics/Cosmos - [Infinite](https://github.com/abikesa/nonplusultra) [Space-Time](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm#link2H_PREF)
+
+Apollo, god of light, averter of evil, patron of `Oracle of Delphi`, considered to be the most beautiful god, symbolizing the harmony and order of the cosmos. His influence extends to the realm of physics, where the laws governing space and time manifest the universe's intricate design. Apollo's domain reflects the quest for knowledge and understanding of the cosmos, emphasizing the beauty and complexity of the natural world.
+
+> Nietzsche evolved from life (Athena and Thunderclap of War), to art (The Birth of Tragedy), frenzy (Youthful Writings), and ultimately science (Aphorisms as Self-evident)
+
 ### 6. 'Thena (Athena): Life/Wherefore - Eternal Recurrence of Same
 - When I did not find what I needed, I was obliged to manufacture it, to [counterfeit](https://www.gutenberg.org/cache/epub/51935/pg51935-images.html#INTRODUCTION)
 Athena, goddess of wisdom, warfare, and strategy, embodies the principle of eternal recurrence. Her wisdom transcends the cyclical nature of life and history, suggesting that the core challenges and triumphs of human existence repeat across time. Athena's domain prompts reflection on the purpose of life and the lessons learned through the repeated patterns of history. She understands mans propensities, anticipates them, and decrees law and order to transcend the following recurrent cycle:
